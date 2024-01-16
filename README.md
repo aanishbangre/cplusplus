@@ -1,2 +1,3 @@
 # cplusplus
-My first repositories
+My first repository
+Author
